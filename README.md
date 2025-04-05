@@ -84,7 +84,7 @@ A high-performance Excel clone built using **React 19**, **Vite**, **Tailwind CS
 ### Clone and Install
 
 ```bash
-git clone <my-repo-url>
+git clone git@github.com:hbghaffar01/excel-clone.git
 cd excel-clone
 npm install
 ```
